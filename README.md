@@ -2,7 +2,7 @@
 
 loreum ipsum
 
-## I believe this will pritn smaller text 
+## I believe this will print smaller text 
 
 loreum ipsum, it's time for lunch pretty soon
 
